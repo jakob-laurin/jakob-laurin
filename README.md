@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
 <h1 align="center">Hi 👋, I'm Jakob Laurin</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
-<img align="right" alt="Coding" width="250" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakob-laurin&label=Profile%20views&color=0e75b6&style=flat" alt="jakob-laurin" /> </p>
 
