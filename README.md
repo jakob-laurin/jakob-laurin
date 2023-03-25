@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakob-laurin&show_icons=true&locale=en" alt="jakob-laurin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakob-laurin&" alt="jakob-laurin" /></p>
+![jakob-laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakob-laurin&show_icons=true&theme=city_lights)
 
