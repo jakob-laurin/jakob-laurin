@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a journaling Web App**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Django and Angular**
 
 - 💬 Ask me about **Python, C++**
 
