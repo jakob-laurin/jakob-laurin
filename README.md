@@ -25,8 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![jakob-laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakob-laurin&show_icons=true&theme=city_lights)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakob-laurin&theme=city_lights" alt="jakob-laurin" /></p>
 
