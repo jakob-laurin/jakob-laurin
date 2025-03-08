@@ -4,7 +4,6 @@
  
 <h3 align="center">A passionate web and app developer from Austria</h3>
  
-<img align="right" alt="Coding" height="200" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
  
 
  
