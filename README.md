@@ -3,8 +3,8 @@
 <h3 align="center">A passionate web and app developer from Austria</h3>
 <img align="right" alt="Coding" height="200" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
 
-<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) </p>
-
+<p align="left"></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) 
 - 🔭 I’m currently working on **a mobile app for creating good Habbits**
 
 - 🌱 I’m currently learning **React native**
