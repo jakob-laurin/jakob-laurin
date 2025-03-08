@@ -6,11 +6,11 @@
  
  
 
- 
+ <a align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
- 
- <p align="right">
+ </a>
+
 
 - 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
  
@@ -25,7 +25,6 @@
 
  
 - 📫 How to reach me **jakob.laurin.education@gmail.com**
- </p>
 
  
 <h3 align="left">Connect with me:</h3>
