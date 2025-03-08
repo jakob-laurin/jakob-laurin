@@ -8,8 +8,7 @@
  
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakob-laurin&label=Profile%20views&color=0e75b6&style=flat" alt="jakob-laurin" /> </p>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
