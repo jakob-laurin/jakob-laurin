@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
  
- <h5 align="right">
+ <p align="right">
 
 - 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
  
@@ -25,7 +25,7 @@
 
  
 - 📫 How to reach me **jakob.laurin.education@gmail.com**
- </h5>
+ </p>
 
  
 <h3 align="left">Connect with me:</h3>
