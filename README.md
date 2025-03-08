@@ -11,7 +11,6 @@
 
 
 
-<p align="left">
  - 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
  
 
@@ -25,7 +24,6 @@
 
  
 - 📫 How to reach me **jakob.laurin.education@gmail.com**
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
