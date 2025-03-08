@@ -12,7 +12,7 @@
 
 
 <p align="left">
-- 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
+ - 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
  
 
  
@@ -26,10 +26,12 @@
  
 - 📫 How to reach me **jakob.laurin.education@gmail.com**
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
  
-<p align="left">
+
  
 <a href="https://www.hackerrank.com/jakob_laurin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jakob_laurin" height="30" width="40" /></a>
  
