@@ -6,10 +6,10 @@
  
  
 
- <a align="right">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-laurin&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
- </a>
+
 
 
 - 🔭 I’m currently working on **a mobile app for reinforcing good habbits**
