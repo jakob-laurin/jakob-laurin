@@ -1,17 +1,17 @@
 ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
 <h1 align="center">Hi 👋, I'm Jakob Laurin</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A passionate web and app developer from Austria</h3>
 <img align="right" alt="Coding" height="200" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakob-laurin&label=Profile%20views&color=0e75b6&style=flat" alt="jakob-laurin" /> </p>
 
-- 🔭 I’m currently working on **a journaling Web App**
+- 🔭 I’m currently working on **a mobile App for Habbits**
 
-- 🌱 I’m currently learning **Django and Angular**
+- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **jakob.laurin@bulme.at**
+- 📫 How to reach me **jakob.laurin.education@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
