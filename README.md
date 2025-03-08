@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakob-laurin&label=Profile%20views&color=0e75b6&style=flat" alt="jakob-laurin" /> </p>
 
-- 🔭 I’m currently working on **a mobile App for Habbits**
+- 🔭 I’m currently working on **a mobile app for creating good Habbits**
 
 - 🌱 I’m currently learning **React native**
 
